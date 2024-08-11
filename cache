@@ -1,1 +1,8 @@
-nexus
+{
+  "health": "GOOD",
+  "percentage": 46,
+  "plugged": "PLUGGED_USB",
+  "status": "CHARGING",
+  "temperature": 32.099998474121094,
+  "current": 436
+}
