@@ -1,9 +1,0 @@
-Dispositivo: NomeDoDispositivo
-{
-  "health": "GOOD",
-  "percentage": 98,
-  "plugged": "PLUGGED_AC",
-  "status": "CHARGING",
-  "temperature": 24.600000381469727,
-  "current": 298
-}
