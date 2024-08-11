@@ -1,1 +1,12 @@
-nexus
+{
+"Dispositivo": "NomeDoDispositivo",
+"Informações da Bateria": {
+  "health": "GOOD",
+  "percentage": 99,
+  "plugged": "PLUGGED_AC",
+  "status": "CHARGING",
+  "temperature": 24.399999618530273,
+  "current": 256
+}
+
+}
