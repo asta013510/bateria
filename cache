@@ -1,1 +1,9 @@
-nexus
+Dispositivo: NomeDoDispositivo
+{
+  "health": "GOOD",
+  "percentage": 97,
+  "plugged": "PLUGGED_AC",
+  "status": "CHARGING",
+  "temperature": 24.899999618530273,
+  "current": 323
+}
