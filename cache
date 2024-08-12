@@ -1,9 +1,0 @@
-{"Dispositivo": "j5prime", "Informações da Bateria": {
-  "health": "GOOD",
-  "percentage": 55,
-  "plugged": "PLUGGED_USB",
-  "status": "CHARGING",
-  "temperature": 23.5,
-  "current": -1318
-}
-}
