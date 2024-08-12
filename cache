@@ -1,1 +1,9 @@
-nexus
+{"Dispositivo": "j5prime", "Informações da Bateria": {
+  "health": "GOOD",
+  "percentage": 98,
+  "plugged": "PLUGGED_USB",
+  "status": "CHARGING",
+  "temperature": 23.799999237060547,
+  "current": 180
+}
+}
